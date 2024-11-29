@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580683868741",
+    "project_id": "clammeditation",
+    "storage_bucket": "clammeditation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580683868741:android:6976d150c3f931e0d0512c",
+        "android_client_info": {
+          "package_name": "com.example.meditation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_6APZO6-NsUt-Z3BSkcDQUtPpD0p0Gck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
